@@ -131,3 +131,16 @@ and submits a Solana transaction to transfer ownership of the cNFT.
 
 * `Ok(String)` - A transaction signature confirming the successful transfer.
 * `Err(anyhow::Error)` - An error if the transfer fails.
+
+
+
+---
+
+> [!TIP]
+> ## 📖 Generating Documentation
+
+Apart from this readme this project also includes Rust-styled documentation for all functions and structs 
+You can generate and view it locally by running on root folder:
+
+```sh
+cargo doc --no-deps --open
