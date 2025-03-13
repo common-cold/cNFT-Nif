@@ -7,8 +7,6 @@
 # The directory Mix downloads your dependencies sources to.
 /deps/
 
-# Where third-party dependencies like ExDoc output generated docs.
-/doc/
 
 # If the VM crashes, it generates a dump, let's ignore it too.
 erl_crash.dump
@@ -23,7 +21,4 @@ cnft_project-*.tar
 /tmp/
 
 # Ignore everything inside target
-/target/*
-
-# But do not ignore target/doc/
-!target/doc/
+/target/
