@@ -96,7 +96,7 @@ providing the necessary ownership details and metadata.
 > ## 📖 Generating Documentation
 
 Apart from this readme this project also includes Rust-styled documentation for all functions and structs 
-You can generate and view it locally by running on root folder: 
+You can generate and view it locally by running on root folder:
 
 ```sh
 cargo doc --no-deps --open
