@@ -1,8 +1,0 @@
-D:\projekts\cnft_project\target\debug\deps\libspl_token_group_interface-9363736324e44872.rmeta: C:\Users\CommonCold\.cargo\registry\src\index.crates.io-6f17d22bba15001f\spl-token-group-interface-0.1.0\src\lib.rs C:\Users\CommonCold\.cargo\registry\src\index.crates.io-6f17d22bba15001f\spl-token-group-interface-0.1.0\src\error.rs C:\Users\CommonCold\.cargo\registry\src\index.crates.io-6f17d22bba15001f\spl-token-group-interface-0.1.0\src\instruction.rs C:\Users\CommonCold\.cargo\registry\src\index.crates.io-6f17d22bba15001f\spl-token-group-interface-0.1.0\src\state.rs
-
-D:\projekts\cnft_project\target\debug\deps\spl_token_group_interface-9363736324e44872.d: C:\Users\CommonCold\.cargo\registry\src\index.crates.io-6f17d22bba15001f\spl-token-group-interface-0.1.0\src\lib.rs C:\Users\CommonCold\.cargo\registry\src\index.crates.io-6f17d22bba15001f\spl-token-group-interface-0.1.0\src\error.rs C:\Users\CommonCold\.cargo\registry\src\index.crates.io-6f17d22bba15001f\spl-token-group-interface-0.1.0\src\instruction.rs C:\Users\CommonCold\.cargo\registry\src\index.crates.io-6f17d22bba15001f\spl-token-group-interface-0.1.0\src\state.rs
-
-C:\Users\CommonCold\.cargo\registry\src\index.crates.io-6f17d22bba15001f\spl-token-group-interface-0.1.0\src\lib.rs:
-C:\Users\CommonCold\.cargo\registry\src\index.crates.io-6f17d22bba15001f\spl-token-group-interface-0.1.0\src\error.rs:
-C:\Users\CommonCold\.cargo\registry\src\index.crates.io-6f17d22bba15001f\spl-token-group-interface-0.1.0\src\instruction.rs:
-C:\Users\CommonCold\.cargo\registry\src\index.crates.io-6f17d22bba15001f\spl-token-group-interface-0.1.0\src\state.rs:

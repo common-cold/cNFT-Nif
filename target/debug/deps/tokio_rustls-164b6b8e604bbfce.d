@@ -1,9 +1,0 @@
-D:\projekts\cnft_project\target\debug\deps\libtokio_rustls-164b6b8e604bbfce.rmeta: C:\Users\CommonCold\.cargo\registry\src\index.crates.io-6f17d22bba15001f\tokio-rustls-0.24.1\src\lib.rs C:\Users\CommonCold\.cargo\registry\src\index.crates.io-6f17d22bba15001f\tokio-rustls-0.24.1\src\client.rs C:\Users\CommonCold\.cargo\registry\src\index.crates.io-6f17d22bba15001f\tokio-rustls-0.24.1\src\common\mod.rs C:\Users\CommonCold\.cargo\registry\src\index.crates.io-6f17d22bba15001f\tokio-rustls-0.24.1\src\common\handshake.rs C:\Users\CommonCold\.cargo\registry\src\index.crates.io-6f17d22bba15001f\tokio-rustls-0.24.1\src\server.rs
-
-D:\projekts\cnft_project\target\debug\deps\tokio_rustls-164b6b8e604bbfce.d: C:\Users\CommonCold\.cargo\registry\src\index.crates.io-6f17d22bba15001f\tokio-rustls-0.24.1\src\lib.rs C:\Users\CommonCold\.cargo\registry\src\index.crates.io-6f17d22bba15001f\tokio-rustls-0.24.1\src\client.rs C:\Users\CommonCold\.cargo\registry\src\index.crates.io-6f17d22bba15001f\tokio-rustls-0.24.1\src\common\mod.rs C:\Users\CommonCold\.cargo\registry\src\index.crates.io-6f17d22bba15001f\tokio-rustls-0.24.1\src\common\handshake.rs C:\Users\CommonCold\.cargo\registry\src\index.crates.io-6f17d22bba15001f\tokio-rustls-0.24.1\src\server.rs
-
-C:\Users\CommonCold\.cargo\registry\src\index.crates.io-6f17d22bba15001f\tokio-rustls-0.24.1\src\lib.rs:
-C:\Users\CommonCold\.cargo\registry\src\index.crates.io-6f17d22bba15001f\tokio-rustls-0.24.1\src\client.rs:
-C:\Users\CommonCold\.cargo\registry\src\index.crates.io-6f17d22bba15001f\tokio-rustls-0.24.1\src\common\mod.rs:
-C:\Users\CommonCold\.cargo\registry\src\index.crates.io-6f17d22bba15001f\tokio-rustls-0.24.1\src\common\handshake.rs:
-C:\Users\CommonCold\.cargo\registry\src\index.crates.io-6f17d22bba15001f\tokio-rustls-0.24.1\src\server.rs:

@@ -1,9 +1,0 @@
-D:\projekts\cnft_project\target\debug\deps\libsolana_metrics-e46ef24533186efa.rmeta: C:\Users\CommonCold\.cargo\registry\src\index.crates.io-6f17d22bba15001f\solana-metrics-1.18.26\src\lib.rs C:\Users\CommonCold\.cargo\registry\src\index.crates.io-6f17d22bba15001f\solana-metrics-1.18.26\src\counter.rs C:\Users\CommonCold\.cargo\registry\src\index.crates.io-6f17d22bba15001f\solana-metrics-1.18.26\src\datapoint.rs C:\Users\CommonCold\.cargo\registry\src\index.crates.io-6f17d22bba15001f\solana-metrics-1.18.26\src\metrics.rs C:\Users\CommonCold\.cargo\registry\src\index.crates.io-6f17d22bba15001f\solana-metrics-1.18.26\src\poh_timing_point.rs
-
-D:\projekts\cnft_project\target\debug\deps\solana_metrics-e46ef24533186efa.d: C:\Users\CommonCold\.cargo\registry\src\index.crates.io-6f17d22bba15001f\solana-metrics-1.18.26\src\lib.rs C:\Users\CommonCold\.cargo\registry\src\index.crates.io-6f17d22bba15001f\solana-metrics-1.18.26\src\counter.rs C:\Users\CommonCold\.cargo\registry\src\index.crates.io-6f17d22bba15001f\solana-metrics-1.18.26\src\datapoint.rs C:\Users\CommonCold\.cargo\registry\src\index.crates.io-6f17d22bba15001f\solana-metrics-1.18.26\src\metrics.rs C:\Users\CommonCold\.cargo\registry\src\index.crates.io-6f17d22bba15001f\solana-metrics-1.18.26\src\poh_timing_point.rs
-
-C:\Users\CommonCold\.cargo\registry\src\index.crates.io-6f17d22bba15001f\solana-metrics-1.18.26\src\lib.rs:
-C:\Users\CommonCold\.cargo\registry\src\index.crates.io-6f17d22bba15001f\solana-metrics-1.18.26\src\counter.rs:
-C:\Users\CommonCold\.cargo\registry\src\index.crates.io-6f17d22bba15001f\solana-metrics-1.18.26\src\datapoint.rs:
-C:\Users\CommonCold\.cargo\registry\src\index.crates.io-6f17d22bba15001f\solana-metrics-1.18.26\src\metrics.rs:
-C:\Users\CommonCold\.cargo\registry\src\index.crates.io-6f17d22bba15001f\solana-metrics-1.18.26\src\poh_timing_point.rs:

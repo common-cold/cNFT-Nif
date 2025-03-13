@@ -1,8 +1,0 @@
-D:\projekts\cnft_project\target\debug\deps\libsolana_udp_client-4e632c82723f19f6.rmeta: C:\Users\CommonCold\.cargo\registry\src\index.crates.io-6f17d22bba15001f\solana-udp-client-1.18.26\src\lib.rs C:\Users\CommonCold\.cargo\registry\src\index.crates.io-6f17d22bba15001f\solana-udp-client-1.18.26\src\nonblocking\mod.rs C:\Users\CommonCold\.cargo\registry\src\index.crates.io-6f17d22bba15001f\solana-udp-client-1.18.26\src\nonblocking\udp_client.rs C:\Users\CommonCold\.cargo\registry\src\index.crates.io-6f17d22bba15001f\solana-udp-client-1.18.26\src\udp_client.rs
-
-D:\projekts\cnft_project\target\debug\deps\solana_udp_client-4e632c82723f19f6.d: C:\Users\CommonCold\.cargo\registry\src\index.crates.io-6f17d22bba15001f\solana-udp-client-1.18.26\src\lib.rs C:\Users\CommonCold\.cargo\registry\src\index.crates.io-6f17d22bba15001f\solana-udp-client-1.18.26\src\nonblocking\mod.rs C:\Users\CommonCold\.cargo\registry\src\index.crates.io-6f17d22bba15001f\solana-udp-client-1.18.26\src\nonblocking\udp_client.rs C:\Users\CommonCold\.cargo\registry\src\index.crates.io-6f17d22bba15001f\solana-udp-client-1.18.26\src\udp_client.rs
-
-C:\Users\CommonCold\.cargo\registry\src\index.crates.io-6f17d22bba15001f\solana-udp-client-1.18.26\src\lib.rs:
-C:\Users\CommonCold\.cargo\registry\src\index.crates.io-6f17d22bba15001f\solana-udp-client-1.18.26\src\nonblocking\mod.rs:
-C:\Users\CommonCold\.cargo\registry\src\index.crates.io-6f17d22bba15001f\solana-udp-client-1.18.26\src\nonblocking\udp_client.rs:
-C:\Users\CommonCold\.cargo\registry\src\index.crates.io-6f17d22bba15001f\solana-udp-client-1.18.26\src\udp_client.rs:

@@ -1,8 +1,0 @@
-D:\projekts\cnft_project\target\debug\deps\libsolana_tpu_client-1ca394378afaa65f.rmeta: C:\Users\CommonCold\.cargo\registry\src\index.crates.io-6f17d22bba15001f\solana-tpu-client-1.18.26\src\lib.rs C:\Users\CommonCold\.cargo\registry\src\index.crates.io-6f17d22bba15001f\solana-tpu-client-1.18.26\src\nonblocking\mod.rs C:\Users\CommonCold\.cargo\registry\src\index.crates.io-6f17d22bba15001f\solana-tpu-client-1.18.26\src\nonblocking\tpu_client.rs C:\Users\CommonCold\.cargo\registry\src\index.crates.io-6f17d22bba15001f\solana-tpu-client-1.18.26\src\tpu_client.rs
-
-D:\projekts\cnft_project\target\debug\deps\solana_tpu_client-1ca394378afaa65f.d: C:\Users\CommonCold\.cargo\registry\src\index.crates.io-6f17d22bba15001f\solana-tpu-client-1.18.26\src\lib.rs C:\Users\CommonCold\.cargo\registry\src\index.crates.io-6f17d22bba15001f\solana-tpu-client-1.18.26\src\nonblocking\mod.rs C:\Users\CommonCold\.cargo\registry\src\index.crates.io-6f17d22bba15001f\solana-tpu-client-1.18.26\src\nonblocking\tpu_client.rs C:\Users\CommonCold\.cargo\registry\src\index.crates.io-6f17d22bba15001f\solana-tpu-client-1.18.26\src\tpu_client.rs
-
-C:\Users\CommonCold\.cargo\registry\src\index.crates.io-6f17d22bba15001f\solana-tpu-client-1.18.26\src\lib.rs:
-C:\Users\CommonCold\.cargo\registry\src\index.crates.io-6f17d22bba15001f\solana-tpu-client-1.18.26\src\nonblocking\mod.rs:
-C:\Users\CommonCold\.cargo\registry\src\index.crates.io-6f17d22bba15001f\solana-tpu-client-1.18.26\src\nonblocking\tpu_client.rs:
-C:\Users\CommonCold\.cargo\registry\src\index.crates.io-6f17d22bba15001f\solana-tpu-client-1.18.26\src\tpu_client.rs:
