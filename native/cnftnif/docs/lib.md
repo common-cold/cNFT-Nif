@@ -90,3 +90,13 @@ providing the necessary ownership details and metadata.
 - `Err(String)`: An error message if the transfer fails.
 
 
+---
+
+> [!TIP]
+> ## 📖 Generating Documentation
+
+Apart from this readme this project also includes Rust-styled documentation for all functions and structs 
+You can generate and view it locally by running on root folder:
+
+```sh
+cargo doc --no-deps --open
