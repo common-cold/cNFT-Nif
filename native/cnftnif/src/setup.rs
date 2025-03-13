@@ -1,3 +1,5 @@
+//! This module implements the core logic for our cNFT NIFs
+
 
 use std::str::FromStr;
 
@@ -22,15 +24,29 @@ static RPC_CLIENT: Lazy<RpcClient> = Lazy::new(|| {
 
 
 
+/// Represents the TreeManager used for managing the Off chain Merkle tree.
 
 #[derive(NifStruct, Clone)]
 #[module = "CnftNif.TreeManager"]
 pub struct TreeManager {
+    /// The maximum depth of the tree.
     pub max_depth: usize,
+
+    /// The maximum buffer size.
     pub max_buffer_size: usize,
+
+    /// Serialized representation of the merkle tree account keypair
     pub serialized_tree_account: Vec<u8>,
+
+    /// Serialized representation of Tree nodes of the merkle tree.
+    /// 
+    /// Storing a MerkleTree object resulted in serializing deserializing problems while converting to elixir.
+    /// So we store the array of nodes of the leaf which are hashed values of LeafScehma object. These leaves are then used 
+    /// to create a local off-chain merkle tree to facilitate finding root of merkle tree, proof of the leaf 
     pub nodes: Vec<Vec<u8>>,
-    minted: usize
+
+    /// The number of minted cNFTS, also used for generating asset id and nonce field in Leaf Schema
+    pub minted: usize
 }
 
 impl Default for TreeManager {
@@ -49,14 +65,54 @@ impl Default for TreeManager {
 
 impl TreeManager {
     
+    /// Get Number of minted cnfts
     pub fn get_minted (&self) -> usize {
         self.minted
     }
 
+    /// Get proof of the off-chain merkle tree
     pub fn get_proof (&self, merkle_tree: &MerkleTree, index: usize) -> Vec<Node>{
         merkle_tree.get_proof_of_leaf(index)
     }
 
+    
+    /// Creates a new Merkle tree on Solana by initializing the tree account and configuration.
+    /// 
+    /// For now it only supports tress with MAX_DEPTH = 14 and MAX_BUFFER_SIZE = 64
+    ///
+    ///
+    /// This function uses the owner's private key (in base58 format) to derive the tree owner,
+    /// calculates the required size for the tree account (including the concurrent Merkle tree header),
+    /// fetches the minimum balance for rent exemption, and constructs the necessary system and configuration
+    /// instructions. It then signs and sends the transaction, returning the transaction signature as a string.
+    ///
+    /// # Parameters
+    ///
+    /// * `owner_private_key` - A string slice representing the owner's private key in base58 format.
+    ///                         This key is used both as the payer for account creation and as the tree creator.
+    /// 
+    /// # Returns
+    ///
+    /// * `Ok(String)` - On success, returns the transaction signature as a string.
+    /// * `Err(String)`  - Returns an error message if any step (decoding, rent calculation, transaction sending, etc.) fails.
+    ///
+    /// # Example
+    ///
+    /// ```rust
+    /// // Assuming `tree_manager` is a mutable instance of TreeManager.
+    /// match tree_manager.create_tree("owner_private_key_in_base58") {
+    ///     Ok(txn_sig) => println!("Transaction signature: {}", txn_sig),
+    ///     Err(err) => eprintln!("Failed to create tree: {}", err),
+    /// }
+    /// ```
+    ///
+    /// # Errors
+    ///
+    /// Returns an error if:
+    /// - The serialized tree account fails to convert into a `Keypair`.
+    /// - The provided `owner_private_key` is empty or cannot be decoded.
+    /// - The rent exemption balance cannot be retrieved.
+    /// - The transaction fails to be signed or confirmed.
     pub fn create_tree(&mut self, owner_private_key: &str) -> Result<String, String> {
         const MAX_DEPTH: usize= 14;
         const MAX_BUFFER_SIZE: usize = 64;
@@ -113,6 +169,42 @@ impl TreeManager {
     }
 
 
+    
+    
+    /// Mints a new Compressed NFT (cNFT) to the specified owner within the Merkle tree.
+    ///
+    /// This function constructs a new metadata entry, signs a mint transaction, and submits it to the Solana blockchain.
+    /// The function also updates the nodes of the current TreeManager instance after successfull minting.
+    /// 
+    ///
+    /// # Parameters
+    ///
+    /// * `owner_private_key` - A string slice representing the private key of the tree owner in base58 format.
+    ///                         This key is used to sign the transaction.
+    /// * `nft_owner` - A string slice representing the public key of the recipient in base58 format.
+    ///
+    /// # Returns
+    ///
+    /// * `Ok(String)` - On success, returns the transaction signature of the mint operation.
+    /// * `Err(anyhow::Error)` - Returns an error if any step fails (invalid keys, transaction failure, etc.).
+    ///
+    /// # Example
+    ///
+    /// ```rust
+    /// // Assuming `tree_manager` is a mutable instance of TreeManager.
+    /// match tree_manager.mint_cnft("owner_private_key_in_base58", "recipient_pubkey_in_base58") {
+    ///     Ok(txn_sig) => println!("Minted successfully. Transaction signature: {}", txn_sig),
+    ///     Err(err) => eprintln!("Minting failed: {}", err),
+    /// }
+    /// ```
+    ///
+    /// # Errors
+    ///
+    /// Returns an error if:
+    /// - The serialized tree account fails to convert into a `Keypair`.
+    /// - The `owner_private_key` is empty or invalid.
+    /// - The `nft_owner` public key is invalid.
+    /// - The transaction fails to be signed or confirmed.
     pub fn mint_cnft(&mut self, owner_private_key: &str, nft_owner: &str) -> Result<String, anyhow::Error> {
 
         let tree_account = Keypair::from_bytes(self.serialized_tree_account.as_slice())
@@ -191,6 +283,34 @@ impl TreeManager {
     }
 
 
+
+
+    /// Transfers a compressed NFT (cNFT) from one owner to another within the Merkle tree.
+    ///
+    /// This function updates the off-chain Merkle tree, constructs a valid proof,  
+    /// and submits a Solana transaction to transfer ownership of the cNFT.
+    ///
+    /// # Arguments
+    ///
+    /// * `tree_owner_private_key` - The private key of the tree owner, used to authorize the transfer.
+    /// * `old_owner_private_key` - The private key of the current NFT owner, required for signing the transfer.
+    /// * `new_owner_pub_key` - The public key of the new NFT owner who will receive the transferred NFT.
+    /// * `index` - The index of the NFT within the Merkle tree.
+    /// * `data_hash` - The base58-encoded hash of the NFT metadata.
+    /// * `creator_hash` - The base58-encoded hash of the NFT creators.
+    ///
+    /// # Returns
+    ///
+    /// * `Ok(String)` - A transaction signature confirming the successful transfer.
+    /// * `Err(anyhow::Error)` - An error if the transfer fails.
+    ///
+    /// # Errors
+    ///
+    /// This function can fail due to:
+    /// - Invalid or empty private keys.
+    /// - Errors while converting the provided keys and hashes.
+    /// - Issues with generating the Merkle proof.
+    /// - Transaction failures on the Solana blockchain.
 
     pub fn transfer_cnft(
         &mut self,
