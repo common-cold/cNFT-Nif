@@ -22,5 +22,8 @@ cnft_project-*.tar
 # Temporary files, for example, from tests.
 /tmp/
 
-# Rust binary artifacts
-/target/
+# Ignore everything inside target
+/target/*
+
+# But do not ignore target/doc/
+!target/doc/

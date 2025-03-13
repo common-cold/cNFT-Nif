@@ -1,0 +1,11 @@
+D:\projekts\cnft_project\target\debug\deps\libconsole-1071f5c09cb265d3.rmeta: C:\Users\CommonCold\.cargo\registry\src\index.crates.io-6f17d22bba15001f\console-0.15.11\src\lib.rs C:\Users\CommonCold\.cargo\registry\src\index.crates.io-6f17d22bba15001f\console-0.15.11\src\common_term.rs C:\Users\CommonCold\.cargo\registry\src\index.crates.io-6f17d22bba15001f\console-0.15.11\src\kb.rs C:\Users\CommonCold\.cargo\registry\src\index.crates.io-6f17d22bba15001f\console-0.15.11\src\term.rs C:\Users\CommonCold\.cargo\registry\src\index.crates.io-6f17d22bba15001f\console-0.15.11\src\utils.rs C:\Users\CommonCold\.cargo\registry\src\index.crates.io-6f17d22bba15001f\console-0.15.11\src\windows_term\mod.rs C:\Users\CommonCold\.cargo\registry\src\index.crates.io-6f17d22bba15001f\console-0.15.11\src\ansi.rs
+
+D:\projekts\cnft_project\target\debug\deps\console-1071f5c09cb265d3.d: C:\Users\CommonCold\.cargo\registry\src\index.crates.io-6f17d22bba15001f\console-0.15.11\src\lib.rs C:\Users\CommonCold\.cargo\registry\src\index.crates.io-6f17d22bba15001f\console-0.15.11\src\common_term.rs C:\Users\CommonCold\.cargo\registry\src\index.crates.io-6f17d22bba15001f\console-0.15.11\src\kb.rs C:\Users\CommonCold\.cargo\registry\src\index.crates.io-6f17d22bba15001f\console-0.15.11\src\term.rs C:\Users\CommonCold\.cargo\registry\src\index.crates.io-6f17d22bba15001f\console-0.15.11\src\utils.rs C:\Users\CommonCold\.cargo\registry\src\index.crates.io-6f17d22bba15001f\console-0.15.11\src\windows_term\mod.rs C:\Users\CommonCold\.cargo\registry\src\index.crates.io-6f17d22bba15001f\console-0.15.11\src\ansi.rs
+
+C:\Users\CommonCold\.cargo\registry\src\index.crates.io-6f17d22bba15001f\console-0.15.11\src\lib.rs:
+C:\Users\CommonCold\.cargo\registry\src\index.crates.io-6f17d22bba15001f\console-0.15.11\src\common_term.rs:
+C:\Users\CommonCold\.cargo\registry\src\index.crates.io-6f17d22bba15001f\console-0.15.11\src\kb.rs:
+C:\Users\CommonCold\.cargo\registry\src\index.crates.io-6f17d22bba15001f\console-0.15.11\src\term.rs:
+C:\Users\CommonCold\.cargo\registry\src\index.crates.io-6f17d22bba15001f\console-0.15.11\src\utils.rs:
+C:\Users\CommonCold\.cargo\registry\src\index.crates.io-6f17d22bba15001f\console-0.15.11\src\windows_term\mod.rs:
+C:\Users\CommonCold\.cargo\registry\src\index.crates.io-6f17d22bba15001f\console-0.15.11\src\ansi.rs:

@@ -1,0 +1,10 @@
+D:\projekts\cnft_project\target\debug\deps\libpolyval-6e64af0122fcc590.rmeta: C:\Users\CommonCold\.cargo\registry\src\index.crates.io-6f17d22bba15001f\polyval-0.5.3\src\lib.rs C:\Users\CommonCold\.cargo\registry\src\index.crates.io-6f17d22bba15001f\polyval-0.5.3\src\backend.rs C:\Users\CommonCold\.cargo\registry\src\index.crates.io-6f17d22bba15001f\polyval-0.5.3\src\backend\soft64.rs C:\Users\CommonCold\.cargo\registry\src\index.crates.io-6f17d22bba15001f\polyval-0.5.3\src\mulx.rs C:\Users\CommonCold\.cargo\registry\src\index.crates.io-6f17d22bba15001f\polyval-0.5.3\src\backend\autodetect.rs C:\Users\CommonCold\.cargo\registry\src\index.crates.io-6f17d22bba15001f\polyval-0.5.3\src\backend\clmul.rs
+
+D:\projekts\cnft_project\target\debug\deps\polyval-6e64af0122fcc590.d: C:\Users\CommonCold\.cargo\registry\src\index.crates.io-6f17d22bba15001f\polyval-0.5.3\src\lib.rs C:\Users\CommonCold\.cargo\registry\src\index.crates.io-6f17d22bba15001f\polyval-0.5.3\src\backend.rs C:\Users\CommonCold\.cargo\registry\src\index.crates.io-6f17d22bba15001f\polyval-0.5.3\src\backend\soft64.rs C:\Users\CommonCold\.cargo\registry\src\index.crates.io-6f17d22bba15001f\polyval-0.5.3\src\mulx.rs C:\Users\CommonCold\.cargo\registry\src\index.crates.io-6f17d22bba15001f\polyval-0.5.3\src\backend\autodetect.rs C:\Users\CommonCold\.cargo\registry\src\index.crates.io-6f17d22bba15001f\polyval-0.5.3\src\backend\clmul.rs
+
+C:\Users\CommonCold\.cargo\registry\src\index.crates.io-6f17d22bba15001f\polyval-0.5.3\src\lib.rs:
+C:\Users\CommonCold\.cargo\registry\src\index.crates.io-6f17d22bba15001f\polyval-0.5.3\src\backend.rs:
+C:\Users\CommonCold\.cargo\registry\src\index.crates.io-6f17d22bba15001f\polyval-0.5.3\src\backend\soft64.rs:
+C:\Users\CommonCold\.cargo\registry\src\index.crates.io-6f17d22bba15001f\polyval-0.5.3\src\mulx.rs:
+C:\Users\CommonCold\.cargo\registry\src\index.crates.io-6f17d22bba15001f\polyval-0.5.3\src\backend\autodetect.rs:
+C:\Users\CommonCold\.cargo\registry\src\index.crates.io-6f17d22bba15001f\polyval-0.5.3\src\backend\clmul.rs:

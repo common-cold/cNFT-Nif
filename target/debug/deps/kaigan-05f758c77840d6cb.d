@@ -1,0 +1,10 @@
+D:\projekts\cnft_project\target\debug\deps\libkaigan-05f758c77840d6cb.rmeta: C:\Users\CommonCold\.cargo\registry\src\index.crates.io-6f17d22bba15001f\kaigan-0.2.6\src\lib.rs C:\Users\CommonCold\.cargo\registry\src\index.crates.io-6f17d22bba15001f\kaigan-0.2.6\src\types\mod.rs C:\Users\CommonCold\.cargo\registry\src\index.crates.io-6f17d22bba15001f\kaigan-0.2.6\src\types\prefix_string.rs C:\Users\CommonCold\.cargo\registry\src\index.crates.io-6f17d22bba15001f\kaigan-0.2.6\src\types\prefix_vec.rs C:\Users\CommonCold\.cargo\registry\src\index.crates.io-6f17d22bba15001f\kaigan-0.2.6\src\types\remainder_str.rs C:\Users\CommonCold\.cargo\registry\src\index.crates.io-6f17d22bba15001f\kaigan-0.2.6\src\types\remainder_vec.rs
+
+D:\projekts\cnft_project\target\debug\deps\kaigan-05f758c77840d6cb.d: C:\Users\CommonCold\.cargo\registry\src\index.crates.io-6f17d22bba15001f\kaigan-0.2.6\src\lib.rs C:\Users\CommonCold\.cargo\registry\src\index.crates.io-6f17d22bba15001f\kaigan-0.2.6\src\types\mod.rs C:\Users\CommonCold\.cargo\registry\src\index.crates.io-6f17d22bba15001f\kaigan-0.2.6\src\types\prefix_string.rs C:\Users\CommonCold\.cargo\registry\src\index.crates.io-6f17d22bba15001f\kaigan-0.2.6\src\types\prefix_vec.rs C:\Users\CommonCold\.cargo\registry\src\index.crates.io-6f17d22bba15001f\kaigan-0.2.6\src\types\remainder_str.rs C:\Users\CommonCold\.cargo\registry\src\index.crates.io-6f17d22bba15001f\kaigan-0.2.6\src\types\remainder_vec.rs
+
+C:\Users\CommonCold\.cargo\registry\src\index.crates.io-6f17d22bba15001f\kaigan-0.2.6\src\lib.rs:
+C:\Users\CommonCold\.cargo\registry\src\index.crates.io-6f17d22bba15001f\kaigan-0.2.6\src\types\mod.rs:
+C:\Users\CommonCold\.cargo\registry\src\index.crates.io-6f17d22bba15001f\kaigan-0.2.6\src\types\prefix_string.rs:
+C:\Users\CommonCold\.cargo\registry\src\index.crates.io-6f17d22bba15001f\kaigan-0.2.6\src\types\prefix_vec.rs:
+C:\Users\CommonCold\.cargo\registry\src\index.crates.io-6f17d22bba15001f\kaigan-0.2.6\src\types\remainder_str.rs:
+C:\Users\CommonCold\.cargo\registry\src\index.crates.io-6f17d22bba15001f\kaigan-0.2.6\src\types\remainder_vec.rs:

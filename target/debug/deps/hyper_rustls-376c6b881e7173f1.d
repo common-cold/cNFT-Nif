@@ -1,0 +1,9 @@
+D:\projekts\cnft_project\target\debug\deps\libhyper_rustls-376c6b881e7173f1.rmeta: C:\Users\CommonCold\.cargo\registry\src\index.crates.io-6f17d22bba15001f\hyper-rustls-0.24.2\src\lib.rs C:\Users\CommonCold\.cargo\registry\src\index.crates.io-6f17d22bba15001f\hyper-rustls-0.24.2\src\config.rs C:\Users\CommonCold\.cargo\registry\src\index.crates.io-6f17d22bba15001f\hyper-rustls-0.24.2\src\connector.rs C:\Users\CommonCold\.cargo\registry\src\index.crates.io-6f17d22bba15001f\hyper-rustls-0.24.2\src\connector\builder.rs C:\Users\CommonCold\.cargo\registry\src\index.crates.io-6f17d22bba15001f\hyper-rustls-0.24.2\src\stream.rs
+
+D:\projekts\cnft_project\target\debug\deps\hyper_rustls-376c6b881e7173f1.d: C:\Users\CommonCold\.cargo\registry\src\index.crates.io-6f17d22bba15001f\hyper-rustls-0.24.2\src\lib.rs C:\Users\CommonCold\.cargo\registry\src\index.crates.io-6f17d22bba15001f\hyper-rustls-0.24.2\src\config.rs C:\Users\CommonCold\.cargo\registry\src\index.crates.io-6f17d22bba15001f\hyper-rustls-0.24.2\src\connector.rs C:\Users\CommonCold\.cargo\registry\src\index.crates.io-6f17d22bba15001f\hyper-rustls-0.24.2\src\connector\builder.rs C:\Users\CommonCold\.cargo\registry\src\index.crates.io-6f17d22bba15001f\hyper-rustls-0.24.2\src\stream.rs
+
+C:\Users\CommonCold\.cargo\registry\src\index.crates.io-6f17d22bba15001f\hyper-rustls-0.24.2\src\lib.rs:
+C:\Users\CommonCold\.cargo\registry\src\index.crates.io-6f17d22bba15001f\hyper-rustls-0.24.2\src\config.rs:
+C:\Users\CommonCold\.cargo\registry\src\index.crates.io-6f17d22bba15001f\hyper-rustls-0.24.2\src\connector.rs:
+C:\Users\CommonCold\.cargo\registry\src\index.crates.io-6f17d22bba15001f\hyper-rustls-0.24.2\src\connector\builder.rs:
+C:\Users\CommonCold\.cargo\registry\src\index.crates.io-6f17d22bba15001f\hyper-rustls-0.24.2\src\stream.rs:

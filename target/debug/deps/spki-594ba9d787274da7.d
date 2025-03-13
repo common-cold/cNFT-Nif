@@ -1,0 +1,11 @@
+D:\projekts\cnft_project\target\debug\deps\libspki-594ba9d787274da7.rmeta: C:\Users\CommonCold\.cargo\registry\src\index.crates.io-6f17d22bba15001f\spki-0.5.4\src\lib.rs C:\Users\CommonCold\.cargo\registry\src\index.crates.io-6f17d22bba15001f\spki-0.5.4\src\algorithm.rs C:\Users\CommonCold\.cargo\registry\src\index.crates.io-6f17d22bba15001f\spki-0.5.4\src\error.rs C:\Users\CommonCold\.cargo\registry\src\index.crates.io-6f17d22bba15001f\spki-0.5.4\src\spki.rs C:\Users\CommonCold\.cargo\registry\src\index.crates.io-6f17d22bba15001f\spki-0.5.4\src\traits.rs C:\Users\CommonCold\.cargo\registry\src\index.crates.io-6f17d22bba15001f\spki-0.5.4\src\document.rs C:\Users\CommonCold\.cargo\registry\src\index.crates.io-6f17d22bba15001f\spki-0.5.4\src\../README.md
+
+D:\projekts\cnft_project\target\debug\deps\spki-594ba9d787274da7.d: C:\Users\CommonCold\.cargo\registry\src\index.crates.io-6f17d22bba15001f\spki-0.5.4\src\lib.rs C:\Users\CommonCold\.cargo\registry\src\index.crates.io-6f17d22bba15001f\spki-0.5.4\src\algorithm.rs C:\Users\CommonCold\.cargo\registry\src\index.crates.io-6f17d22bba15001f\spki-0.5.4\src\error.rs C:\Users\CommonCold\.cargo\registry\src\index.crates.io-6f17d22bba15001f\spki-0.5.4\src\spki.rs C:\Users\CommonCold\.cargo\registry\src\index.crates.io-6f17d22bba15001f\spki-0.5.4\src\traits.rs C:\Users\CommonCold\.cargo\registry\src\index.crates.io-6f17d22bba15001f\spki-0.5.4\src\document.rs C:\Users\CommonCold\.cargo\registry\src\index.crates.io-6f17d22bba15001f\spki-0.5.4\src\../README.md
+
+C:\Users\CommonCold\.cargo\registry\src\index.crates.io-6f17d22bba15001f\spki-0.5.4\src\lib.rs:
+C:\Users\CommonCold\.cargo\registry\src\index.crates.io-6f17d22bba15001f\spki-0.5.4\src\algorithm.rs:
+C:\Users\CommonCold\.cargo\registry\src\index.crates.io-6f17d22bba15001f\spki-0.5.4\src\error.rs:
+C:\Users\CommonCold\.cargo\registry\src\index.crates.io-6f17d22bba15001f\spki-0.5.4\src\spki.rs:
+C:\Users\CommonCold\.cargo\registry\src\index.crates.io-6f17d22bba15001f\spki-0.5.4\src\traits.rs:
+C:\Users\CommonCold\.cargo\registry\src\index.crates.io-6f17d22bba15001f\spki-0.5.4\src\document.rs:
+C:\Users\CommonCold\.cargo\registry\src\index.crates.io-6f17d22bba15001f\spki-0.5.4\src\../README.md:

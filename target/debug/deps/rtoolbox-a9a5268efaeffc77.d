@@ -1,0 +1,10 @@
+D:\projekts\cnft_project\target\debug\deps\librtoolbox-a9a5268efaeffc77.rmeta: C:\Users\CommonCold\.cargo\registry\src\index.crates.io-6f17d22bba15001f\rtoolbox-0.0.2\src\lib.rs C:\Users\CommonCold\.cargo\registry\src\index.crates.io-6f17d22bba15001f\rtoolbox-0.0.2\src\atty.rs C:\Users\CommonCold\.cargo\registry\src\index.crates.io-6f17d22bba15001f\rtoolbox-0.0.2\src\fix_line_issues.rs C:\Users\CommonCold\.cargo\registry\src\index.crates.io-6f17d22bba15001f\rtoolbox-0.0.2\src\print_tty.rs C:\Users\CommonCold\.cargo\registry\src\index.crates.io-6f17d22bba15001f\rtoolbox-0.0.2\src\safe_string.rs C:\Users\CommonCold\.cargo\registry\src\index.crates.io-6f17d22bba15001f\rtoolbox-0.0.2\src\safe_vec.rs
+
+D:\projekts\cnft_project\target\debug\deps\rtoolbox-a9a5268efaeffc77.d: C:\Users\CommonCold\.cargo\registry\src\index.crates.io-6f17d22bba15001f\rtoolbox-0.0.2\src\lib.rs C:\Users\CommonCold\.cargo\registry\src\index.crates.io-6f17d22bba15001f\rtoolbox-0.0.2\src\atty.rs C:\Users\CommonCold\.cargo\registry\src\index.crates.io-6f17d22bba15001f\rtoolbox-0.0.2\src\fix_line_issues.rs C:\Users\CommonCold\.cargo\registry\src\index.crates.io-6f17d22bba15001f\rtoolbox-0.0.2\src\print_tty.rs C:\Users\CommonCold\.cargo\registry\src\index.crates.io-6f17d22bba15001f\rtoolbox-0.0.2\src\safe_string.rs C:\Users\CommonCold\.cargo\registry\src\index.crates.io-6f17d22bba15001f\rtoolbox-0.0.2\src\safe_vec.rs
+
+C:\Users\CommonCold\.cargo\registry\src\index.crates.io-6f17d22bba15001f\rtoolbox-0.0.2\src\lib.rs:
+C:\Users\CommonCold\.cargo\registry\src\index.crates.io-6f17d22bba15001f\rtoolbox-0.0.2\src\atty.rs:
+C:\Users\CommonCold\.cargo\registry\src\index.crates.io-6f17d22bba15001f\rtoolbox-0.0.2\src\fix_line_issues.rs:
+C:\Users\CommonCold\.cargo\registry\src\index.crates.io-6f17d22bba15001f\rtoolbox-0.0.2\src\print_tty.rs:
+C:\Users\CommonCold\.cargo\registry\src\index.crates.io-6f17d22bba15001f\rtoolbox-0.0.2\src\safe_string.rs:
+C:\Users\CommonCold\.cargo\registry\src\index.crates.io-6f17d22bba15001f\rtoolbox-0.0.2\src\safe_vec.rs:

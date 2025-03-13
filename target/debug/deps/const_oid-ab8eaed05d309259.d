@@ -1,0 +1,11 @@
+D:\projekts\cnft_project\target\debug\deps\libconst_oid-ab8eaed05d309259.rmeta: C:\Users\CommonCold\.cargo\registry\src\index.crates.io-6f17d22bba15001f\const-oid-0.7.1\src\lib.rs C:\Users\CommonCold\.cargo\registry\src\index.crates.io-6f17d22bba15001f\const-oid-0.7.1\src\macros.rs C:\Users\CommonCold\.cargo\registry\src\index.crates.io-6f17d22bba15001f\const-oid-0.7.1\src\arcs.rs C:\Users\CommonCold\.cargo\registry\src\index.crates.io-6f17d22bba15001f\const-oid-0.7.1\src\encoder.rs C:\Users\CommonCold\.cargo\registry\src\index.crates.io-6f17d22bba15001f\const-oid-0.7.1\src\error.rs C:\Users\CommonCold\.cargo\registry\src\index.crates.io-6f17d22bba15001f\const-oid-0.7.1\src\parser.rs C:\Users\CommonCold\.cargo\registry\src\index.crates.io-6f17d22bba15001f\const-oid-0.7.1\src\../README.md
+
+D:\projekts\cnft_project\target\debug\deps\const_oid-ab8eaed05d309259.d: C:\Users\CommonCold\.cargo\registry\src\index.crates.io-6f17d22bba15001f\const-oid-0.7.1\src\lib.rs C:\Users\CommonCold\.cargo\registry\src\index.crates.io-6f17d22bba15001f\const-oid-0.7.1\src\macros.rs C:\Users\CommonCold\.cargo\registry\src\index.crates.io-6f17d22bba15001f\const-oid-0.7.1\src\arcs.rs C:\Users\CommonCold\.cargo\registry\src\index.crates.io-6f17d22bba15001f\const-oid-0.7.1\src\encoder.rs C:\Users\CommonCold\.cargo\registry\src\index.crates.io-6f17d22bba15001f\const-oid-0.7.1\src\error.rs C:\Users\CommonCold\.cargo\registry\src\index.crates.io-6f17d22bba15001f\const-oid-0.7.1\src\parser.rs C:\Users\CommonCold\.cargo\registry\src\index.crates.io-6f17d22bba15001f\const-oid-0.7.1\src\../README.md
+
+C:\Users\CommonCold\.cargo\registry\src\index.crates.io-6f17d22bba15001f\const-oid-0.7.1\src\lib.rs:
+C:\Users\CommonCold\.cargo\registry\src\index.crates.io-6f17d22bba15001f\const-oid-0.7.1\src\macros.rs:
+C:\Users\CommonCold\.cargo\registry\src\index.crates.io-6f17d22bba15001f\const-oid-0.7.1\src\arcs.rs:
+C:\Users\CommonCold\.cargo\registry\src\index.crates.io-6f17d22bba15001f\const-oid-0.7.1\src\encoder.rs:
+C:\Users\CommonCold\.cargo\registry\src\index.crates.io-6f17d22bba15001f\const-oid-0.7.1\src\error.rs:
+C:\Users\CommonCold\.cargo\registry\src\index.crates.io-6f17d22bba15001f\const-oid-0.7.1\src\parser.rs:
+C:\Users\CommonCold\.cargo\registry\src\index.crates.io-6f17d22bba15001f\const-oid-0.7.1\src\../README.md:

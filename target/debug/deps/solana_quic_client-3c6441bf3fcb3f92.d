@@ -1,0 +1,8 @@
+D:\projekts\cnft_project\target\debug\deps\libsolana_quic_client-3c6441bf3fcb3f92.rmeta: C:\Users\CommonCold\.cargo\registry\src\index.crates.io-6f17d22bba15001f\solana-quic-client-1.18.26\src\lib.rs C:\Users\CommonCold\.cargo\registry\src\index.crates.io-6f17d22bba15001f\solana-quic-client-1.18.26\src\nonblocking\mod.rs C:\Users\CommonCold\.cargo\registry\src\index.crates.io-6f17d22bba15001f\solana-quic-client-1.18.26\src\nonblocking\quic_client.rs C:\Users\CommonCold\.cargo\registry\src\index.crates.io-6f17d22bba15001f\solana-quic-client-1.18.26\src\quic_client.rs
+
+D:\projekts\cnft_project\target\debug\deps\solana_quic_client-3c6441bf3fcb3f92.d: C:\Users\CommonCold\.cargo\registry\src\index.crates.io-6f17d22bba15001f\solana-quic-client-1.18.26\src\lib.rs C:\Users\CommonCold\.cargo\registry\src\index.crates.io-6f17d22bba15001f\solana-quic-client-1.18.26\src\nonblocking\mod.rs C:\Users\CommonCold\.cargo\registry\src\index.crates.io-6f17d22bba15001f\solana-quic-client-1.18.26\src\nonblocking\quic_client.rs C:\Users\CommonCold\.cargo\registry\src\index.crates.io-6f17d22bba15001f\solana-quic-client-1.18.26\src\quic_client.rs
+
+C:\Users\CommonCold\.cargo\registry\src\index.crates.io-6f17d22bba15001f\solana-quic-client-1.18.26\src\lib.rs:
+C:\Users\CommonCold\.cargo\registry\src\index.crates.io-6f17d22bba15001f\solana-quic-client-1.18.26\src\nonblocking\mod.rs:
+C:\Users\CommonCold\.cargo\registry\src\index.crates.io-6f17d22bba15001f\solana-quic-client-1.18.26\src\nonblocking\quic_client.rs:
+C:\Users\CommonCold\.cargo\registry\src\index.crates.io-6f17d22bba15001f\solana-quic-client-1.18.26\src\quic_client.rs:

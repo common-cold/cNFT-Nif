@@ -1,0 +1,8 @@
+D:\projekts\cnft_project\target\debug\deps\libsolana_config_program-48220f8088ac3065.rmeta: C:\Users\CommonCold\.cargo\registry\src\index.crates.io-6f17d22bba15001f\solana-config-program-1.18.26\src\lib.rs C:\Users\CommonCold\.cargo\registry\src\index.crates.io-6f17d22bba15001f\solana-config-program-1.18.26\src\config_instruction.rs C:\Users\CommonCold\.cargo\registry\src\index.crates.io-6f17d22bba15001f\solana-config-program-1.18.26\src\config_processor.rs C:\Users\CommonCold\.cargo\registry\src\index.crates.io-6f17d22bba15001f\solana-config-program-1.18.26\src\date_instruction.rs
+
+D:\projekts\cnft_project\target\debug\deps\solana_config_program-48220f8088ac3065.d: C:\Users\CommonCold\.cargo\registry\src\index.crates.io-6f17d22bba15001f\solana-config-program-1.18.26\src\lib.rs C:\Users\CommonCold\.cargo\registry\src\index.crates.io-6f17d22bba15001f\solana-config-program-1.18.26\src\config_instruction.rs C:\Users\CommonCold\.cargo\registry\src\index.crates.io-6f17d22bba15001f\solana-config-program-1.18.26\src\config_processor.rs C:\Users\CommonCold\.cargo\registry\src\index.crates.io-6f17d22bba15001f\solana-config-program-1.18.26\src\date_instruction.rs
+
+C:\Users\CommonCold\.cargo\registry\src\index.crates.io-6f17d22bba15001f\solana-config-program-1.18.26\src\lib.rs:
+C:\Users\CommonCold\.cargo\registry\src\index.crates.io-6f17d22bba15001f\solana-config-program-1.18.26\src\config_instruction.rs:
+C:\Users\CommonCold\.cargo\registry\src\index.crates.io-6f17d22bba15001f\solana-config-program-1.18.26\src\config_processor.rs:
+C:\Users\CommonCold\.cargo\registry\src\index.crates.io-6f17d22bba15001f\solana-config-program-1.18.26\src\date_instruction.rs:
